@@ -1,0 +1,9 @@
+# UMich GitLab
+    Host gitlab
+    HostName gitlab.com
+    User git
+# CAEN
+    Host meghap
+    HostName login.engin.umich.edu
+    User meghap
+    Compression yes
